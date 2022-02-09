@@ -6,20 +6,11 @@
 
 body{
     height: 100vh;
-    background: linear-gradient(to right, rgb(245, 82, 182), rgb(248, 144, 214));
+    background: linear-gradient(to right, rgb(132, 201, 147), rgb(65, 224, 86));
     overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-h1{
-    position: fixed;
-    top:20px;
-    background-color: rgb(243, 208, 208);
-    color: rgb(231, 71, 97);
-    padding: 10px;
-    border-radius: 10px;
 }
 
 .social{
@@ -54,6 +45,7 @@ h1{
     padding: 10px;
     border-radius: 10px;
 }
+
 .wrapper{
     width: 90%;
     display: flex;
@@ -92,11 +84,12 @@ h2 p{
     color: black;
     opacity: 0.8;
 }
+
 .gallery{
     position: fixed;
     width: 100%;
     height: 100%;
-    background: linear-gradient(to right, rgb(245, 82, 182), rgb(248, 144, 214));
+    background: linear-gradient(to right, rgb(132, 201, 147), rgb(65, 224, 86));
     display: flex;
     align-items: center;
     color: #fff;
